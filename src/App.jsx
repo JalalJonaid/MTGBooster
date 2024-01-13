@@ -11,7 +11,7 @@ function App() {
     <div>
       <Router>
         <Routes>
-          <Route path="CardIndex" element={<CardIndex/>}></Route>
+          <Route path="/" element={<CardIndex/>}></Route>
         </Routes>
       </Router>
     </div>
